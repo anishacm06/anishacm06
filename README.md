@@ -33,9 +33,11 @@ Motto......... "Code • Learn • Build • Repeat"
 ```
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishacm06&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=anishacm06&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishacm06&layout=compact&theme=tokyonight)
+![GitHub followers](https://img.shields.io/github/followers/anishacm06?label=Followers&style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/anishacm06?style=social)
 
 ---
 
